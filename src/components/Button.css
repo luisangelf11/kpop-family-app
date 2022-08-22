@@ -1,0 +1,19 @@
+.button{
+    display: block;
+    margin:100px auto;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    outline: 0;
+    border: 0;
+    background-color: royalblue;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.button:hover{
+    transition: all .4s ease-in-out;
+    opacity: .75;
+}

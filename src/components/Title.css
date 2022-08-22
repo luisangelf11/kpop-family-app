@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'DynaPuff', cursive;
+    color: rgb(167, 33, 33);
+    /*animation: change 5s linear infinite;*/
+}
+
+@keyframes change{
+    0%{
+        font-size: 40px;
+        color: rgb(167, 33, 33);
+    }
+    75%{
+        font-size: 20px;
+        color: rgb(33, 42, 167);
+    }100%{
+        font-size: 40px;
+        color: rgb(167, 33, 33);
+    }
+}
