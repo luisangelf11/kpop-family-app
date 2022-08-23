@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/kpop-family-app/static/css/main.d3e27447.css",
+    "main.js": "/kpop-family-app/static/js/main.9df54b7c.js",
+    "static/js/787.dc38ca2e.chunk.js": "/kpop-family-app/static/js/787.dc38ca2e.chunk.js",
+    "static/media/Rose.jpeg": "/kpop-family-app/static/media/Rose.05788101e7b4ccc7c0fa.jpeg",
+    "static/media/Jennie.jpeg": "/kpop-family-app/static/media/Jennie.b6d6df27539a6c98cef2.jpeg",
+    "static/media/Lisa.jpeg": "/kpop-family-app/static/media/Lisa.35827f6c8ec7f9cb899f.jpeg",
+    "static/media/Jisoo.jpeg": "/kpop-family-app/static/media/Jisoo.e674d5891f4da332194f.jpeg",
+    "static/media/Niki.jpg": "/kpop-family-app/static/media/Niki.3ff98fe332398ad8ad1c.jpg",
+    "static/media/Beomgyu.jpeg": "/kpop-family-app/static/media/Beomgyu.36700562791fc9408a48.jpeg",
+    "static/media/Seungmin.jpeg": "/kpop-family-app/static/media/Seungmin.208aa237bd71495d6c35.jpeg",
+    "static/media/Taehyun.jpeg": "/kpop-family-app/static/media/Taehyun.da5f875e61416470ed94.jpeg",
+    "static/media/Sunoo.jpg": "/kpop-family-app/static/media/Sunoo.ef7f9cc082bfb2dc1892.jpg",
+    "static/media/Soobin.jpeg": "/kpop-family-app/static/media/Soobin.a5aa5d4ef75607ad3022.jpeg",
+    "static/media/LeeKnow.jpeg": "/kpop-family-app/static/media/LeeKnow.33a0f8111c605f1aaffc.jpeg",
+    "static/media/Yuna.jpeg": "/kpop-family-app/static/media/Yuna.732397352a30a126bc3e.jpeg",
+    "static/media/Chaeryeong.jpeg": "/kpop-family-app/static/media/Chaeryeong.f6343a4cbe0fc720730c.jpeg",
+    "static/media/Yeonjun.jpeg": "/kpop-family-app/static/media/Yeonjun.31573d2696095e05ca9a.jpeg",
+    "static/media/Han.jpeg": "/kpop-family-app/static/media/Han.2b04ff9b5bd2223ad481.jpeg",
+    "static/media/IN.jpeg": "/kpop-family-app/static/media/IN.4ccb64c3cdf9327488ae.jpeg",
+    "static/media/Lia.jpeg": "/kpop-family-app/static/media/Lia.b7f02c783ccc6a121621.jpeg",
+    "static/media/Yeji.jpeg": "/kpop-family-app/static/media/Yeji.a03e9efd5fca1973c74f.jpeg",
+    "static/media/Ryujin.jpeg": "/kpop-family-app/static/media/Ryujin.d30344d117398bc3c28a.jpeg",
+    "static/media/Hyunjin.jpeg": "/kpop-family-app/static/media/Hyunjin.22dc0c2b85eb2b7cd0c8.jpeg",
+    "static/media/Sunghoon.jpg": "/kpop-family-app/static/media/Sunghoon.08c50c36e6ce36e0641e.jpg",
+    "static/media/Kai.jpeg": "/kpop-family-app/static/media/Kai.947dda3db9eddaa6c71a.jpeg",
+    "static/media/Chan.jpeg": "/kpop-family-app/static/media/Chan.262e8128e6cd8650a1ea.jpeg",
+    "static/media/Felix.jpeg": "/kpop-family-app/static/media/Felix.b4ae7c32ab3d29e9169a.jpeg",
+    "static/media/Changbin.jpeg": "/kpop-family-app/static/media/Changbin.a6cd8e11a95427015256.jpeg",
+    "static/media/none.png": "/kpop-family-app/static/media/none.2d2fa983391b0ece064b.png",
+    "index.html": "/kpop-family-app/index.html",
+    "main.d3e27447.css.map": "/kpop-family-app/static/css/main.d3e27447.css.map",
+    "main.9df54b7c.js.map": "/kpop-family-app/static/js/main.9df54b7c.js.map",
+    "787.dc38ca2e.chunk.js.map": "/kpop-family-app/static/js/787.dc38ca2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e27447.css",
+    "static/js/main.9df54b7c.js"
+  ]
+}
